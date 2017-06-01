@@ -1,5 +1,6 @@
 # WFBannerView
-更改自czy1121/bannerview如有侵权请联系QQ：747257503，本人将立即删除！ </br>
+更改自czy1121/bannerview </br>
+如有侵权请联系QQ：747257503，本人将立即删除！ </br>
 源码链接：https://github.com/czy1121/bannerview</br>
 
 
@@ -17,7 +18,6 @@ repositories {
 } 
 dependencies {
     compile 'com.github.warmfire:WFBannerView:v1.0.0'
-    compile 'com.github.bumptech.glide:glide:4.0.0-RC0'
 }
 ```
 
