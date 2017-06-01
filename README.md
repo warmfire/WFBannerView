@@ -14,7 +14,7 @@ repositories {
     maven { url "https://jitpack.io" }
 } 
 dependencies {
-    compile 'com.github.czy1121:bannerview:1.0.0'
+    compile 'com.github.warmfire:WFBannerView:v1.0.0'
     compile 'com.github.bumptech.glide:glide:4.0.0-RC0'
 }
 ```
