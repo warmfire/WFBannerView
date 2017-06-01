@@ -54,9 +54,12 @@ Java
 ```Java
 final BannerView banner1 = (BannerView) findViewById(R.id.banner1);
 banner1.setViewFactory(new BannerViewFactory());
-banner1.setDataList(list);
+banner1.setDataList(list); // 设置图片和标题list
 banner1.setClickType(0); // 设置点击图片事件，0为Toast，1为页面跳转
-banner1.setContext(MainActivity.this); 
+banner1.setDelay(2000); // 设置轮播延时
+banner1.setInterval(2000); // 设置轮播间隔
+banner1.setScale(ImageView.ScaleType.FIT_CENTER); // 设置图片填充方式
+banner1.setContext(MainActivity.this); // 传递context
 banner1.start();
 ```
  
