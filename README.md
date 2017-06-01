@@ -1,7 +1,7 @@
 # WFBannerView
-更改自czy1121/bannerview</br>
-源码链接：https://github.com/czy1121/bannerview
-如有侵权请联系QQ：747257503，本人将立即删除！ 
+更改自czy1121/bannerview如有侵权请联系QQ：747257503，本人将立即删除！ </br>
+源码链接：https://github.com/czy1121/bannerview</br>
+
 
 
 横幅广告图片轮播控件</br>
