@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "D:\\WorkSpaces\\Android Studio\\BannerView\\wfbannerview\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout-v21\\notification_template_icon_group.xml",
+        "source": "C:\\Users\\warmfire\\.android\\build-cache\\962e77a987a54a1f804b3b64605df50d75a6b1d1\\output\\res\\layout-v21\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "D:\\WorkSpaces\\Android Studio\\BannerView\\wfbannerview\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout-v21\\notification_action_tombstone.xml",
+        "source": "C:\\Users\\warmfire\\.android\\build-cache\\962e77a987a54a1f804b3b64605df50d75a6b1d1\\output\\res\\layout-v21\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "D:\\WorkSpaces\\Android Studio\\BannerView\\wfbannerview\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout-v21\\notification_action.xml",
+        "source": "C:\\Users\\warmfire\\.android\\build-cache\\962e77a987a54a1f804b3b64605df50d75a6b1d1\\output\\res\\layout-v21\\notification_action.xml"
+    },
+    {
+        "merged": "D:\\WorkSpaces\\Android Studio\\BannerView\\wfbannerview\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout-v21\\notification_template_custom_big.xml",
+        "source": "C:\\Users\\warmfire\\.android\\build-cache\\962e77a987a54a1f804b3b64605df50d75a6b1d1\\output\\res\\layout-v21\\notification_template_custom_big.xml"
+    }
+]
